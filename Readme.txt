@@ -1,4 +1,4 @@
-讲voxblox ++中的mask rcnn更改至tf2环境总结：
+将voxblox ++中的mask rcnn更改至tf2环境总结：
 保留build文件夹！！！！！！！！！
 
 1.安装tf2.6-nightly,cuda11.2,cudnn8.1.0,使得3090可以工作
